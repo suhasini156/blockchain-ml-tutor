@@ -1,0 +1,11 @@
+
+MACHINE LEARNING BASICS:
+1. Machine Learning (ML) allows systems to learn from data.
+TYPES:
+- Supervised (e.g., classification)
+- Unsupervised (e.g., clustering)
+- Reinforcement (e.g., Q-learning)
+KEY TERMS:
+- Overfitting: model too complex
+- Underfitting: model too simple
+- Accuracy, Precision, Recall

@@ -1,0 +1,18 @@
+
+BLOCKCHAIN BASICS:
+1. Blockchain is a decentralized ledger of all transactions across a peer-to-peer network.
+2. Each block contains data, hash of the block, and hash of the previous block.
+3. It ensures security, transparency, and immutability.
+BLOCK STRUCTURE:
+- Data: Contains transaction details
+- Hash: Unique fingerprint of the block
+- Previous Hash: Links block to the previous one
+TYPES OF BLOCKCHAIN:
+1. Public Blockchain – Anyone can join (e.g., Bitcoin)
+2. Private Blockchain – Restricted access (e.g., Hyperledger)
+3. Consortium Blockchain – Controlled by a group (e.g., banks)
+USE CASES:
+- Cryptocurrency (Bitcoin, Ethereum)
+- Healthcare (secure patient records)
+- Supply Chain (track goods)
+- Education (verifying certificates)

@@ -1,0 +1,12 @@
+
+PYTHON PROGRAMMING BASICS:
+Variables store data: x = 10
+Data types: int, float, str, list
+Control Flow: if, else, loops
+Functions:
+def greet(name):
+    print("Hello", name)
+Libraries:
+- NumPy
+- Pandas
+- Scikit-learn
